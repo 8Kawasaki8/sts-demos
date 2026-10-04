@@ -1,0 +1,30 @@
+{
+  "slug": "kapsalon-hoboken",
+  "generatedAt": "2026-10-04T19:39:08.616Z",
+  "photos": [
+    {
+      "id": "d52a204d2b58451f",
+      "title": "Alle",
+      "role": "hero",
+      "jpg1600": "d52a204d2b58451f-1600.jpg",
+      "webp1600": "d52a204d2b58451f-1600.webp",
+      "jpg800": "d52a204d2b58451f-800.jpg",
+      "webp800": "d52a204d2b58451f-800.webp",
+      "width": 1600,
+      "height": 1131,
+      "alt": "Kapsalon Hoboken"
+    },
+    {
+      "id": "e14a5c2eb2317272",
+      "title": "Binnen",
+      "role": "about",
+      "jpg1600": "e14a5c2eb2317272-1600.jpg",
+      "webp1600": "e14a5c2eb2317272-1600.webp",
+      "jpg800": "e14a5c2eb2317272-800.jpg",
+      "webp800": "e14a5c2eb2317272-800.webp",
+      "width": 1600,
+      "height": 3376,
+      "alt": "Binnenkijken bij Kapsalon Hoboken"
+    }
+  ]
+}
