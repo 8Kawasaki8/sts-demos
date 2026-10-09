@@ -1,0 +1,42 @@
+{
+  "slug": "kapsalon-kiosk",
+  "generatedAt": "2026-10-09T10:26:13.486Z",
+  "photos": [
+    {
+      "id": "9393689904ab4030",
+      "title": "Van eigenaar",
+      "role": "hero",
+      "jpg1600": "9393689904ab4030-1600.jpg",
+      "webp1600": "9393689904ab4030-1600.webp",
+      "jpg800": "9393689904ab4030-800.jpg",
+      "webp800": "9393689904ab4030-800.webp",
+      "width": 1600,
+      "height": 895,
+      "alt": "Kapsalon Kiosk"
+    },
+    {
+      "id": "df0210c237b8f329",
+      "title": "Alle",
+      "role": "gallery",
+      "jpg1600": "df0210c237b8f329-1600.jpg",
+      "webp1600": "df0210c237b8f329-1600.webp",
+      "jpg800": "df0210c237b8f329-800.jpg",
+      "webp800": "df0210c237b8f329-800.webp",
+      "width": 1600,
+      "height": 1818,
+      "alt": "Kapsalon Kiosk"
+    },
+    {
+      "id": "48796317e179baa6",
+      "title": "Buitenkant",
+      "role": "gallery",
+      "jpg1600": "48796317e179baa6-1600.jpg",
+      "webp1600": "48796317e179baa6-1600.webp",
+      "jpg800": "48796317e179baa6-800.jpg",
+      "webp800": "48796317e179baa6-800.webp",
+      "width": 1536,
+      "height": 2048,
+      "alt": "Kapsalon Kiosk – buitenkant"
+    }
+  ]
+}
